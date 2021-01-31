@@ -13,3 +13,5 @@ Face detection | Add, update and delete faces
 Eye Blink Detection | Last marked attendance list
 Creating new attendance file every day | Low power mode when no face detected
 Restricting multiple entries if eye blinked multiple times for 1 entry | Code optimizations
+
+[Preview](https://user-images.githubusercontent.com/31106802/106378693-bf5db600-63cc-11eb-82af-c2618d540ccb.mp4)
