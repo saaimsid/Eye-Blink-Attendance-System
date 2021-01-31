@@ -4,7 +4,7 @@
 * Python
 * opencv
 * Eye Blink Detection using Eye Aspect Ratio (EAR)
-* Qt
+* PyQt
 
 ### Features
 Working     |     Upcoming
