@@ -2,7 +2,7 @@
 
 ### Technologies Used
 * Python
-* opencv
+* Open-CV
 * Eye Blink Detection using Eye Aspect Ratio (EAR)
 * PyQt
 
