@@ -2,7 +2,7 @@
 
 ### Technologies Used
 * Python
-* Open-CV
+* Face detection using Open-CV
 * Eye Blink Detection using Eye Aspect Ratio (EAR)
 * PyQt
 
